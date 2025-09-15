@@ -1,0 +1,9 @@
+Flask is a lightweight python web applicaations.it allows you to:
+
+ show HTML pages in a browser
+
+ Handle user input (forms)
+
+ connect to a databases
+
+ And more.....
